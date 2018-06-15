@@ -8,6 +8,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Welcome user Todays date is: <myStyles:userStyleDate/>
+	Welcome user Todays date is: <myStyles:userStyleDate inputDateStyle="dd/MM/yyyy"/><br>
+	Welcome user Todays date is: <myStyles:userStyleDate inputDateStyle="dd-MM-yyyy"/><br>
+	Welcome user Todays date is: <myStyles:userStyleDate inputDateStyle="EEEE"/><br>
+	Welcome user Todays date is: <myStyles:userStyleDate inputDateStyle="MMMM"/><br>
 </body>
 </html>
