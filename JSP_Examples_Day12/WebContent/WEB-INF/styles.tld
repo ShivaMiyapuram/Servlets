@@ -1,0 +1,10 @@
+<taglib>
+	<tlib-version> 1.2</tlib-version>
+	<jsp-version>jsp 2.0</jsp-version>
+	<tag>
+		<name>userStyleDate</name>
+		<tag-class>com.marlabs.DateStyleHandler</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+
+</taglib>
